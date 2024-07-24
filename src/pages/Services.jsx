@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaHeartbeat, FaBrain, FaAmbulance, FaFireExtinguisher, FaStethoscope } from 'react-icons/fa';
-import home4 from '../assets/images/serviceb.webp'; // Ensure this image path is correct
+import home4 from '../assets/images/service.webp'; // Ensure this image path is correct
 
 const services = [
   {
