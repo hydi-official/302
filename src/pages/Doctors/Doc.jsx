@@ -4,7 +4,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import home1 from '../../assets/images/docA.webp';
 import home2 from '../../assets/images/DocB.webp';
 import home3 from '../../assets/images/DocC.avif';
-import home4 from '../../assets/images/DOcD.jpg';
+import home4 from '../../assets/images/DocD.jpg';
 import home5 from '../../assets/images/DocE.webp';
 import { FaStar } from 'react-icons/fa';
 
