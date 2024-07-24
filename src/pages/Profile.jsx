@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaUser, FaKey, FaPhoneAlt, FaVideo } from 'react-icons/fa';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import defaultProfileImg from '../assets/images/DocA.webp';
+import defaultProfileImg from '../assets/images/docA.webp';
 import doctorImg from '../assets/images/home1.png'; // Replace with dynamic doctor images
 
 const appointments = [
